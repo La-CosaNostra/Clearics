@@ -1,0 +1,32 @@
+## Bing
+Sure, I can help you with that! Here's a possible database schema for your website:
+
+Table: Songs
+Columns:
+- song_id (int): Unique identifier for each song
+- title (varchar): Title of the song
+- artist (varchar): Name of the artist who performed the song
+- lyrics (text): Lyrics of the song
+- chords (json): JSON object containing the chords of the song
+
+Table: Artists
+Columns:
+- artist_id (int): Unique identifier for each artist
+- name (varchar): Name of the artist
+
+Table: Users
+Columns:
+- user_id (int): Unique identifier for each user
+- username (varchar): Username of the user
+- password (varchar): Password of the user
+
+Table: User_Songs
+Columns:
+- user_id (int): Unique identifier for each user
+- song_id (int): Unique identifier for each song
+- date_added (datetime): Date when the user added the song to their collection
+
+This schema includes four tables: Songs, Artists, Users, and User_Songs. The Songs table stores information about each song, including its title, artist, lyrics, and chords. The Artists table stores information about each artist, including their name. The Users table stores information about each user, including their username and password. Finally, the User_Songs table is a join table that links users to the songs they have added to their collection.
+To implement the ability to call from an extensive JSON library of guitar chords, you can store the chords of each song in a JSON object in the chords column of the Songs table. You can then use this JSON object to display the chords on your website.
+To provide access to the latest and up-to-date lyrics of as many known songs as possible, you can use one of the many free music APIs available online . These APIs allow you to search for and retrieve lyrics for a given song. You can then store these lyrics in the lyrics column of the Songs table.
+I hope this helps! Let me know if you have any other questions.

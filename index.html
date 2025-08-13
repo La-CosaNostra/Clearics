@@ -1,0 +1,139 @@
+<!DOCTYPE>
+<html>
+<head>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+<script type="text/javascript" src="chordpro.js"></script>
+<style type="text/css">
+		textarea {
+			display: block;
+			min-height: 500px;
+			width: 100%;
+		}
+		.rendering-target {
+			font-family: monospace;
+			white-space: nowrap;
+			font-size: 9.5px;
+			border: 1px solid #ccc;
+			padding: 10px;
+			min-height: 600px;
+		}
+		.rendering-target:empty:before {
+			content: "<this is where your chords will render>";
+			font-style: italic;
+			text-align: center;
+			font-size: 1.5rem;
+			display: block;
+			padding: 20px 0;
+			color: #ccc;
+		}
+		.rendering-target .command_block {
+			padding-bottom: 10px;
+		}
+		.rendering-target .command_block h1 {
+			font-size: 1.8rem;
+			margin:  0;
+			padding: 0;
+		}
+		.rendering-target .command_block h4 {
+			font-size: 1.4rem;
+			margin:  0;
+			padding: 0;
+		}
+		.rendering-target .command_block em.comment {
+			display: block;
+		}
+		.rendering-target .lyric_block {
+			column-count: 2;
+		}
+		.rendering-target .lyric_block .line {
+			-webkit-column-break-inside: avoid; /* Chrome, Safari */
+			page-break-inside: avoid;           /* Theoretically FF 20+ */
+			break-inside: avoid-column;         /* IE 11 */
+			display:table;                      /* Actually FF 20+ */
+		}
+		.rendering-target .lyric_block .chord {
+			color: #44f;
+			font-weight: bold;
+		}
+		@media print {
+			.rendering-target {
+				padding: 0;
+				border: none;
+			}
+		}
+	</style>
+</head>
+<body>
+<div class="container">
+<div class="row">
+<div class="col-md-12 hidden-print">
+<h1>ChordPro Rendering Engine</h1>
+<p>
+This page has a printable stylesheet applied that will
+display only the rendered chords. This can be used to save
+rendered chords as pdf files, as well as printing them.
+</p>
+</div>
+<div class="col-md-6 hidden-print">
+<label>Enter your ChordPro Markup Below: </label>
+<textarea></textarea>
+<label>Transpose?</label>
+<div class="transpose">
+<a href="#" class="transpose-down"><i class="fa fa-chevron-down"><span class="sr-only">transpose down</i></a>
+<span class="transpose-level" data-transpose="0">0</span>
+<a href="#" class="transpose-up"><i class="fa fa-chevron-up"><span class="sr-only">transpose up</i></a>
+</div>
+<script type="text/javascript">
+
+					$(document).ready(function() {
+						var the_timeout = "";
+						$('textarea').on("keyup input", function() {
+							var $this = $(this);
+							clearTimeout( the_timeout );
+							the_timeout = setTimeout( function() {
+								var template = $this.val();
+								var transpose = $('.transpose .transpose-level').data('transpose');
+								var html = parseChordPro(template, transpose);
+								$('.rendering-target').html(html);
+							}, 10 );
+						});
+						$('.transpose a').click(function(e) {
+							e.preventDefault();
+							var $this = $(this);
+							var $wrapper = $this.closest('.transpose');
+							var $val_block = $wrapper.find('.transpose-level');
+							var old_val = $val_block.data('transpose');
+							var new_val = old_val;
+							if( $this.hasClass('transpose-up') ) {
+								new_val += 1;
+							} else {
+								new_val -= 1;
+							}
+							$val_block.data('transpose', new_val);
+							var new_text = "";
+							if( new_val > 0 ) {
+								new_text += "+";
+							} else if( new_val < 0 ) {
+								new_text += "&minus;";
+							}
+							new_text += Math.abs(new_val);
+							$val_block.html(new_text);
+							$('textarea').trigger("input");
+						});
+					})
+				</script>
+</div>
+<div class="col-md-6">
+<div class="rendering-target"></div>
+</div>
+</div>
+</div>
+</body>
+</html>
