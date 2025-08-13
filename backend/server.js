@@ -16,12 +16,13 @@ const songs = [
   }
 ];
 
-// API endpoint to get songs
-app.get('/api/songs', (req, res) => {
-  res.json(songs);
-});
+const chords = {
+  "C": { frets: ["x", "3", "2", "0", "1", "0"], fingers: ["x", "3", "2", "0", "1", "0"] },
+  "G": { frets: ["3", "2", "0", "0", "0", "3"], fingers: ["2", "1", "0", "0", "0", "3"] },
+  "Am": { frets: ["x", "0", "2", "2", "1", "0"], fingers: ["x", "0", "2", "2", "1", "0"] }
+};
 
-// Start the server
-app.listen(port, () => {
-  console.log(`Server running on [invalid url, do not cite]);
-});
+app.get('/api/songs', (req, res) => res.json(songs));
+app.get('/api/chords', (req, res) => res.json(chords));
+
+app.listen(port, () => console.log(`Server running on http://localhost:${port}`));
