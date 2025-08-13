@@ -1,0 +1,2671 @@
+{
+  "chord": "Amaj",
+  "variation": "1",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": null,
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "2",
+      "note": "C#"
+    },
+    {
+      "finger": null,
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "1",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": null,
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": null,
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "finger": null,
+  "fret": "0",
+  "string": "5",
+  "note": "A"
+}
+
+{
+  "chord": "Amaj",
+  "variation": "2",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "6",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "7",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "6",
+      "string": "3",
+      "note": "C#"
+    },
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "2",
+      "note": "E"
+    },
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "1",
+      "note": "A"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "2",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "6",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "7",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "5",
+      "string": "3",
+      "note": "C"
+    },
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "2",
+      "note": "E"
+    },
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "1",
+      "note": "A"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "3",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "9",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "11",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "11",
+      "string": "3",
+      "note": "C#"
+    },
+    {
+      "finger": "2",
+      "fret": "10",
+      "string": "2",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "1",
+      "note": "null"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "3",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "9",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "11",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "11",
+      "string": "3",
+      "note": "E"
+    },
+    {
+      "finger": "2",
+      "fret": "10",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "1",
+      "note": "null"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "4",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "5",
+      "note": "C#"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "4",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "2",
+      "note": "C#"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "4",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "5",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "5",
+      "note": "C"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "4",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "5",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "6",
+      "string": "3",
+      "note": "C#"
+    },
+    {
+      "finger": "4",
+      "fret": "5",
+      "string": "2",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "5",
+      "string": "1",
+      "note": "A"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "5",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "E"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "4",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "5",
+      "string": "3",
+      "note": "C"
+    },
+    {
+      "finger": "4",
+      "fret": "5",
+      "string": "2",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "5",
+      "string": "1",
+      "note": "A"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "6",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "11",
+      "string": "4",
+      "note": "C#"
+    },
+    {
+      "finger": "2",
+      "fret": "9",
+      "string": "3",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "9",
+      "string": "2",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "9",
+      "string": "1",
+      "note": "C#"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "6",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "10",
+      "string": "4",
+      "note": "C"
+    },
+    {
+      "finger": "2",
+      "fret": "9",
+      "string": "3",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "8",
+      "string": "2",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "8",
+      "string": "1",
+      "note": "C"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "7",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "14",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "14",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "14",
+      "string": "2",
+      "note": "C#"
+    },
+    {
+      "finger": "null",
+      "fret": "12",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "7",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "14",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "14",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "13",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "12",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "8",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "11",
+      "string": "4",
+      "note": "C#"
+    },
+    {
+      "finger": "2",
+      "fret": "9",
+      "string": "3",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "10",
+      "string": "2",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "9",
+      "string": "1",
+      "note": "C#"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "8",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "12",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "10",
+      "string": "4",
+      "note": "C"
+    },
+    {
+      "finger": "2",
+      "fret": "9",
+      "string": "3",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "10",
+      "string": "2",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "1",
+      "note": "C"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "9",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "4",
+      "fret": "2",
+      "string": "2",
+      "note": "C#"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Am",
+  "variation": "9",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Amaj",
+  "variation": "10",
+  "fullChord": "A C# E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "2",
+      "note": "C#"
+    },
+    {
+      "finger": "null",
+      "fret": "null",
+	  "string"1"
+	  "note": "null"
+	}
+}
+
+{
+  "chord": "Am",
+  "variation": "10",
+  "fullChord": "A C E",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "0",
+      "string": "5",
+      "note": "A"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "3",
+      "fret": "2",
+      "string": "3",
+      "note": "A"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "1",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "1",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "1",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "2",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "6",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "2",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "6",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "6",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "3",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "6",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "3",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "6",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "1",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "4",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "4",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "6",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "5",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "4",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "5",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "6",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "4",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "6",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "6",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "1",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "7",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "7",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "6",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "8",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "6",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "8",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "8",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "1",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "9",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "4",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "9",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "8",
+      "string": "5",
+      "note": "F"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "4",
+      "note": "A#"
+    },
+    {
+      "finger": "3",
+      "fret": "6",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "4",
+      "fret": "6",
+      "string": "2",
+      "note": "F"
+    },
+    {
+      "finger": "null",
+      "fret": "6",
+      "string": "1",
+      "note": "A#"
+    }
+  ]
+}
+
+{
+  "chord": "A#maj",
+  "variation": "10",
+  "fullChord": "A# D F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "4",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "A#min",
+  "variation": "10",
+  "fullChord": "A# D# F",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "5",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "4",
+      "note": "F"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "3",
+      "note": "A#"
+    },
+    {
+      "finger": "2",
+      "fret": "1",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "1",
+      "string": "1",
+      "note": "F"
+    }
+  ]
+}
+
+{
+  "chord": "Bmaj",
+  "variation": "1",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "1",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+
+{
+  "chord": "Bmaj",
+  "variation": "2",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "6",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "8",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "2",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "6",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Bmaj",
+  "variation": "3",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "3",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+
+{
+  "chord": "Bmaj",
+  "variation": "4",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "9",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "11",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "11",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "2",
+      "fret": "11",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "9",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "4",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "9",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "11",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "11",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "2",
+      "fret": "10",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "9",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Bmaj",
+  "variation": "5",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "5",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+{
+  "chord": "Bmaj",
+  "variation": "6",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+{
+  "chord": "Bmin",
+  "variation": "6",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+{
+  "chord": "Bmaj",
+  "variation": "7",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+{
+  "chord": "Bmin",
+  "variation": "7",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+{
+  "chord": "Bmaj",
+  "variation": "8",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+{
+  "chord": "Bmin",
+  "variation": "8",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+{
+  "chord": "Bmaj",
+  "variation": "9",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "2",
+      "note": "D#"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+{
+  "chord": "Bmin",
+  "variation": "9",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "2",
+      "string": "5",
+      "note": "B"
+    },
+    {
+      "finger": "3",
+      "fret": "4",
+      "string": "4",
+      "note": "F#"
+    },
+    {
+      "finger": "4",
+      "fret": "4",
+      "string": "3",
+      "note": "B"
+    },
+    {
+      "finger": "2",
+      "fret": "3",
+      "string": "2",
+      "note": "D"
+    },
+    {
+      "finger": "null",
+      "fret": "2",
+      "string": "1",
+      "note": "F#"
+    }
+  ]
+}
+{
+  "chord": "Bmaj",
+  "variation": "10",
+  "fullChord": "B D# F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "8",
+      "string": "3",
+      "note": "D#"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Bmin",
+  "variation": "10",
+  "fullChord": "B D F#",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "1",
+      "fret": "7",
+      "string": "5",
+      "note": "F#"
+    },
+    {
+      "finger": "3",
+      "fret": "9",
+      "string": "4",
+      "note": "B"
+    },
+    {
+      "finger": "4",
+      "fret": "7",
+      "string": "3",
+      "note": "D"
+    },
+    {
+      "finger": "2",
+      "fret": "7",
+      "string": "2",
+      "note": "F#"
+    },
+    {
+      "finger": "null",
+      "fret": "7",
+      "string": "1",
+      "note": "B"
+    }
+  ]
+}
+
+{
+  "chord": "Cmaj",
+  "variation": "1",
+  "fullChord": "C E G",
+  "fingerings": [
+    {
+      "finger": "null",
+      "fret": "null",
+      "string": "6",
+      "note": "null"
+    },
+    {
+      "finger": "3",
+      "fret": "3",
+      "string": "5",
+      "note": "C"
+    },
+    {
+      "finger": "2",
+      "fret": "2",
+      "string": "4",
+      "note": "E"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "3",
+      "note": "G"
+    },
+    {
+      "finger": "1",
+      "fret": "1",
+      "string": "2",
+      "note": "C"
+    },
+    {
+      "finger": "null",
+      "fret": "0",
+      "string": "1",
+      "note": "E"
+    }
+  ]
+}
+
+{
+  "chord": "Cmin",
+  "variation": "1",
+  "fullChord": "C Eb G",
+  "fingerings": [
+    {
+      "finger": "1",
+      "fret": "3",
+      "string": "5",
+      "note": "C"
+    },
+    {
+      "finger": "3",
+      "fret": "5",
+      "string": "4",
+      "note": "G"
+    },
+    {
+      "finger": "4",
+      "fret": "5",
+      "string": "3",
+      "note": "Eb"
+    },
+    {
+      "finger": "2",
+      "fret": "4",
+      "string": "2",
+      "note": "G"
+    },
+    {
+      "finger": "null",
+      "fret": "3",
+      "string": "1",
+      "note": "C"
+    }
+  ]
+
+}

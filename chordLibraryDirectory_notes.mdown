@@ -1,0 +1,64 @@
+1.  **Basic Major and Minor Chords**: There are 12 unique notes in Western music. For each note, you can have a major and a minor chord. So, 12 x 2 = 24 basic chords.
+    
+2.  **7th Chords**: These include major 7th, minor 7th, dominant 7th, and minor 7th flat five (or half-diminished). That's 4 variations for each of the 12 notes, so 12 x 4 = 48.
+    
+3.  **Extended Chords**: These include 9th, 11th, and 13th chords, and they can come in various forms like major, minor, dominant, etc. The combinations grow exponentially.
+    
+4.  **Altered Chords**: These are chords with altered notes, like a dominant chord with a sharp or flat 9th, or a sharp or flat 5th.
+    
+5.  **Suspended Chords**: Such as sus2 and sus4.
+    
+6.  **Slash Chords**: These are chords with a specified bass note other than the root, like D/F#.
+    
+7.  **Inversions**: Every chord can be played with its notes in a different order, creating different inversions.
+    
+8.  **Voicings**: Beyond the basic open and barre chord shapes, there are countless ways to voice a chord on the guitar neck.
+    
+9.  **Other Variations**: There are diminished chords, augmented chords, 6th chords, and many more.
+    
+10.  **Non-Western Scales and Chords**: If you venture outside of Western music scales, the number of potential chords increases even more.
+    
+	
+<<--- 1.  **Basic Major and Minor Chords**:
+    
+    *   12 notes x 2 variations (major and minor) = 24 chords
+2.  **7th Chords**:
+    
+    *   Major 7th, Minor 7th, Dominant 7th, Minor 7th flat five (or half-diminished) = 4 variations
+    *   12 notes x 4 variations = 48 chords
+3.  **Extended Chords**:
+    
+    *   9th (major, minor, dominant), 11th (dominant, minor), 13th (dominant) = let's approximate this to about 6 common variations
+    *   12 notes x 6 variations = 72 chords
+4.  **Altered Chords**:
+    
+    *   Dominant chords can be altered with b5, #5, b9, #9 = 4 variations
+    *   12 notes x 4 variations = 48 chords
+5.  **Suspended Chords**:
+    
+    *   Sus2 and Sus4 = 2 variations
+    *   12 notes x 2 variations = 24 chords
+6.  **Slash Chords**:
+    
+    *   This is tricky because any chord can technically be played over any bass note. But let's consider the most common ones, where a chord is played over a bass note that's not its root. If we consider 12 major and 12 minor chords with one alternate bass note each, that's 24. But this is a vast underestimation.
+    *   Approximate = 24 chords
+7.  **Inversions**:
+    
+    *   These are not new chords per se, but different ways of playing the same chord. So, they won't add to our total.
+8.  **Other Variations**:
+    
+    *   Diminished, Augmented, 6th chords. Let's approximate this to about 3 variations.
+    *   12 notes x 3 variations = 36 chords  --->>>
+
+{
+    "BasicChords": {
+        "Major": ["A", "B", "C", "D", "E", "F", "G", "Ab", "Bb", "Db", "Eb", "Gb"],
+        "Minor": ["Am", "Bm", "Cm", "Dm", "Em", "Fm", "Gm", "Abm", "Bbm", "Dbm", "Ebm", "Gbm"]
+    },
+    "SeventhChords": {
+        "Major7": ["AMaj7", "BMaj7", "CMaj7", "DMaj7", "EMaj7", "FMaj7", "GMaj7", "AbMaj7", "BbMaj7", "DbMaj7", "EbMaj7", "GbMaj7"],
+        "Minor7": ["Am7", "Bm7", "Cm7", "Dm7", "Em7", "Fm7", "Gm7", "Abm7", "Bbm7", "Dbm7", "Ebm7", "Gbm7"],
+        "Dominant7": ["A7", "B7", "C7", "D7", "E7", "F7", "G7", "Ab7", "Bb7", "Db7", "Eb7", "Gb7"],
+        "HalfDiminished": ["Am7b5", "Bm7b5", "Cm7b5", "Dm7b5", "Em7b5", "Fm7b5", "Gm7b5", "Abm7b5", "Bbm7b5", "Dbm7b5", "Ebm7b5", "Gbm"]
+	}
+}
