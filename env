@@ -1,0 +1,5 @@
+node -v
+npm -v
+mkdir clearics
+cd clearics
+mkdir backend frontend
